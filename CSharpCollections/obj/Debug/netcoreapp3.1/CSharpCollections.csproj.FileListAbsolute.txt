@@ -1,0 +1,13 @@
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp3.1\CSharpCollections.exe
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp3.1\CSharpCollections.deps.json
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp3.1\CSharpCollections.runtimeconfig.json
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp3.1\CSharpCollections.runtimeconfig.dev.json
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp3.1\CSharpCollections.dll
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp3.1\CSharpCollections.pdb
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp3.1\CSharpCollections.csprojAssemblyReference.cache
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp3.1\CSharpCollections.AssemblyInfoInputs.cache
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp3.1\CSharpCollections.AssemblyInfo.cs
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp3.1\CSharpCollections.csproj.CoreCompileInputs.cache
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp3.1\CSharpCollections.dll
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp3.1\CSharpCollections.pdb
+D:\MartinCODING PROJECTS\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp3.1\CSharpCollections.genruntimeconfig.cache
